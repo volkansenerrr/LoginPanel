@@ -1,0 +1,10 @@
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe.config
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.pdb
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Form1.resources
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Properties.Resources.resources
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.GenerateResource.cache
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe
+C:\Users\I-Life\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.pdb
